@@ -1,0 +1,47 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #272833;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.status-indicator {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+.background__cards{
+    background-color: #272B33;
+}
+
+
+.card {
+    background-color: #3C3E44 !important;
+    color: white !important;
+    padding: 0rem !important;
+}
+
+.title__page{
+    height: 20vh;
+    
+}
+
+
+.title__page h2 {
+    font-weight: 800;
+    font-size: 100px;
+    margin-top: 7.5rem;
+
+
+}
+
+.card-text {
+    color: #c9c1c1;
+}
+
+.span__page {
+    color: white;
+}
